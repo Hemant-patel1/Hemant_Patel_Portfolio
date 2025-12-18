@@ -34,7 +34,7 @@ const Navbar = ({
             >
               <Sparkles size={18} className="sm:w-5 sm:h-5" />
               <span className="hidden sm:inline">Web Developer</span>
-              <span className="sm:hidden">DF</span>
+              <span className="sm:hidden">Web developer</span>
             </button>
 
             {/* Desktop Navigation */}
