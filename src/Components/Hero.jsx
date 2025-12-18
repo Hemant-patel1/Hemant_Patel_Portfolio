@@ -68,7 +68,7 @@ const Hero = ({ contactInfo, socialLinks }) => {
                 <Mail size={16} className="sm:w-5 sm:h-5" />
               </a>
               <a 
-  href="https://drive.google.com/file/d/1PVlHVfdpR6lIbWRJvLPBa6cw6oeDqZkB/view?usp=sharing"
+  href="https://drive.google.com/file/d/1mGpF1nLFv7FhshgAm9nnY2luhf1YeNtI/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="border-2 border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 font-medium py-2.5 sm:py-3 px-4 sm:px-6 rounded-lg transition-all duration-300 hover:scale-105 flex items-center gap-2 text-sm sm:text-base"
